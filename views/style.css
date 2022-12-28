@@ -1,0 +1,13 @@
+
+@font-face{
+    font-family: "NikoshBAN";
+    src: url("./fonts/NikoshBAN.ttf") format("truetype");
+  }
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: NikoshBAN;
+    
+}
